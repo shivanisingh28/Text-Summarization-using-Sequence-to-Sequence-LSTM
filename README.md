@@ -1,0 +1,2 @@
+# Text-Summarization-using-Sequence-to-Sequence-LSTM
+Our model represents abstractive text summarization using LSTM (Long-Short term memory network) based deep learning as a sequence-to-sequence model noting that this is many-to-many problem. Textual data is learned by using word embedding on the news article dataset to pertain the original meaning of the article. This contains the sequence to sequence model for text summarization which has given around 84% accurate summary for given text.
